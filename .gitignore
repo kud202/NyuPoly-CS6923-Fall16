@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Ipython Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
